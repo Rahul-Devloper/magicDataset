@@ -46,3 +46,9 @@ Predict whether a given set of features corresponds to a **gamma ray** or **hadr
 
 ## 📁 File Structure
 
+/magic-gamma-classification
+│
+├── fcc_MAGIC_example.ipynb
+├── magucDataset.ipynb
+├── README.md
+
